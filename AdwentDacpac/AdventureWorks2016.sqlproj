@@ -287,6 +287,7 @@
     <Build Include="Security\Permissions.sql" />
     <Build Include="ExtendedProperties.sql" />
     <Build Include="dbo\Tables\TableFromVS.sql" />
+    <Build Include="dbo\Tables\TestTable.sql" />
   </ItemGroup>
   <ItemGroup>
     <PreDeploy Include="BeforeDeploy\CreateAddr.PreDeployment.sql" />
