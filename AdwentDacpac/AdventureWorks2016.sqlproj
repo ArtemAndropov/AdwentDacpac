@@ -290,6 +290,7 @@
     <Build Include="dbo\Tables\TestTable.sql" />
     <Build Include="dbo\Tables\TestTable2.sql" />
     <Build Include="dbo\Stored Procedures\GET_TestTable2.sql" />
+    <Build Include="dbo\Tables\TestTable3.sql" />
   </ItemGroup>
   <ItemGroup>
     <PreDeploy Include="BeforeDeploy\CreateAddr.PreDeployment.sql" />
