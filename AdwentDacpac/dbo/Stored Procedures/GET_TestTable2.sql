@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].[GET_TestTable2]
+AS
+BEGIN
+	SELECT * FROM TestTable2
+END
